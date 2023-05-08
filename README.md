@@ -1,4 +1,4 @@
-# ChitChatio
+# ChitChat.io
 
 ChitChat.io is a Full Stack Chatting App.
 Used Socket.io for real time communication and stores user details in encrypted format in Mongo DB Database.
